@@ -30,7 +30,7 @@ INSERT INTO tb_genero (no_genero) VALUES
 
 -- 5. Inserir Jogos de Exemplo
 INSERT INTO tb_jogo (co_plataforma, co_condicao_jogo, no_jogo, ds_jogo, vl_preco, qt_estoque, st_ativo) VALUES
-(1, 2, 'Super Mario World', 'Clássico jogo de plataforma do SNES completo na caixa original.', 199.90, 5, TRUE),
+(1, 2, 'Super Mario World', 'Clássico jogo de plataforma do SNES completo na caixa original.', 199.90, 0, TRUE),
 (1, 4, 'Chrono Trigger', 'Cartucho original em excelente estado de conservação.', 850.00, 1, TRUE),
 (2, 3, 'Sonic the Hedgehog 2', 'Cartucho para Mega Drive funcionando perfeitamente.', 89.90, 8, TRUE),
 (3, 1, 'Castlevania: Symphony of the Night', 'Jogo lacrado de fábrica versão Black Label.', 1200.00, 1, TRUE),
