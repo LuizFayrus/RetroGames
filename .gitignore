@@ -1,0 +1,15 @@
+# .NET / C#
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node / JS
+node_modules/
+dist/
+.env
+
+# IDEs
+.vscode/
+.vs/
