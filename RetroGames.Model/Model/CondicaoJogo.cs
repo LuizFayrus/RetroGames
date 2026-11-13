@@ -1,10 +1,8 @@
-namespace RetroGames.Model.Model;
+namespace RetroGames.Model;
 
 public class CondicaoJogo
 {
-    // co_condicao_jogo
     public int Id { get; set; }
-
-    // ds_condicao_jogo
-    public string Descricao { get; set; } = string.Empty;
+    public string Nome { get; set; } = string.Empty;
+    public string? Descricao { get; set; }
 }
