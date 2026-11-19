@@ -1,4 +1,4 @@
-namespace RetroGames.Model.Model;
+namespace RetroGames.Model;
 
 public class JogoGenero
 {
